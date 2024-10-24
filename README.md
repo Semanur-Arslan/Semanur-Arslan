@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:semanurrrarslan@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30"/></a>
-<a href="https://linkedin.com/in/semanur-arslan"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30"/></a>
+<a href="https://linkedin.com/in/semanur-arslan" target="_blank" ><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30"/></a>
 
  
 
